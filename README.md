@@ -1,10 +1,9 @@
 # How-To-Lose-The-Time-War-Game-Showcase
 
-This repository documents a Unity 2D game developed as a university project and
-exhibited at **New Designers (London)**.
+This repository contains a Unity 2D game that was created as a project for a university assignment and was showcased at **New Designers (London)**.
 
- The original source code is no longer available due to a system format.
-> This repository serves as a technical showcase via gameplay video and documentation.
+The original source code cannot be found since the system was formatted.
+> This repository is a technical showcase by means of a gameplay video.
 
 ## Gameplay Video
 https://www.youtube.com/watch?v=Fey0g68B280
